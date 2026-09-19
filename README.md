@@ -113,4 +113,4 @@ src/
 
 ## Note
 
-This project was built as part of the Boot.dev backend development curriculum and was developed by following the course material and assignments.
+This project was built as part of the Boot.dev backend development path.
